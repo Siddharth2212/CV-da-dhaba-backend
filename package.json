@@ -1,0 +1,14 @@
+{
+  "name": "cvdadhaba",
+  "version": "1.0.0",
+  "description": "cv da dhaba backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "siddharth sogani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
